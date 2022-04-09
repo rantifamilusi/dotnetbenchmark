@@ -1,0 +1,2 @@
+# dotnetbenchmark
+Trying out BenchmarkDotNet 
